@@ -4,148 +4,117 @@
     box-sizing: border-box;
 }
 
+header {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 30px 8%;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 100px;
+}
+
+.imagem {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -2;
+}
+
 .nav {
     display: flex;
-    width: 1367px;
-    height: 141px;
-    padding: 64px;
-    gap: 32px;
+    justify-content: space-between;
     align-items: center;
-    justify-content: center;
+    width: 100%;
 }
 
-
-
-nav {
-    display: flex;
-    gap: 4px;
-
-}
 .logo-cabecalho img {
-    height: 80px;
+    height: 60px;
     width: auto;
 }
-.titulo-pagina-principal{
-text-align: center;
-font-size: 3rem;
-color: #222;
-padding: 60px 20px 20px 20px;
-margin-top: 400px;
-}
 
-
-
-
-.titulo-principal {
-
+.nav ul {
     display: flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 800px;
-    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/src/assets/img/januaria.jpg');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    border-radius: 20px;
-    margin: 40px auto;
-    max-width: 1600px;
-
+    list-style: none;
+    gap: 30px;
 }
 
-.texto-principal {
-display: flex;
-align-items: center;
-gap: 50px;
-max-width: 1200px;
-margin: 0 auto;
+.nav a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 500;
 }
 
-
-.paragrafo-principal  {
-    flex: 1.5;   
-    padding: 60px 80px;
-    border-radius: 200px 100px;
+h1 {
     display: flex;
+   justify-content: center;
     align-items: center;
+    
 }
 
-.paragrafo-principal p {
-   color: #ffffff;
-   font-size: 1.1rem;
-   line-height: 1.8;
-   text-align: left;
-   font-family: 'Montserrat', sans-serif;
-}
 
-.fundo-imagem{
+.destaque-animado {
+    position: relative;
+    height: 60vh;
     width: 100%;
-    padding:120px 20px 200px 20px;
-    background-image: url('../assets/img/januaria-video.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 0 8%;
+}
+
+.imagem-fundo{
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -2;
+    animation:zoomSuave 20s infinite alternate linear;
 
 }
 
-.titulo-video {
 
+@keyframes zoomSuave {
+    0%{
+        transform: scale(1);
+ 
+    }
+100% {
+    transform: scale(1.15);
+}
+
+}
+
+.paragrafo-principal p{
+width: 80px;
+max-width: 800px;
+text-align: center;
+font-size: 1.3rem;
+line-height: 1.8;
+color:#4a4a4a;
+margin-top: 40px;
+font-style: italic;
+}
+
+
+.secao-video{
+    background-color: #0a220a;
+    padding: 80px 8%;
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 30px;
-    width: 90%;
-    max-width: 900px;
-    margin: 0 auto; 
-}
-    
-   
-
- 
- 
-.titulo-video h2 {
-  
-    color: #222222;
-    font-size: 2.5rem;
-     text-transform: uppercase;
-     letter-spacing: 2px;
-     margin: 0;
 }
 
-.video-januaria {
-    width: 100%;
-    aspect-ratio: 16/9;
-    background-color: #000000;
-    border-radius: 15px;
-    overflow: hidden;
-    box-shadow: opx 10px 20px rgba(0, 0, 0, 0.3);
-}
-
-.video-januaria iframe {
-width: 100%;
-height: 100%;
-}
-
-
-
-.secao-video {
-    padding: 100px 20px;
-    background-color: #c7490f;
-
-}
-
-.banner img{
-    max-width: 100%;
-    height: auto;
-}
-
-.banner {
-    display: flex;
-    justify-content: center;
-    padding: 0 10%;
-}
    
 .titulo-carrossel{
 text-align: center;
