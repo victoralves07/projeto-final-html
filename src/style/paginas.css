@@ -1,0 +1,528 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f7e8e8;
+}
+
+.container-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.texto-pequi {
+    flex: 1;
+    max-width: 500px;
+}
+
+.texto-pequi h2 {
+    color: #134d37;
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+}
+
+.texto-pequi p {
+    color: #333333;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.fruta-pequi {
+    flex: 1;
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+.container-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.texto-igreja {
+    flex: 1;
+    max-width: 500px;
+}
+
+.texto-igreja h2 {
+    color: #134d37;
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.texto-igreja p {
+    color: #333333;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.imagem-igreja {
+    flex: 1;
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+}
+
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+.container-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.texto-praia {
+    flex: 1;
+    max-width: 500px;
+}
+
+.texto-praia h2 {
+    color: #134d37;
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.texto-praia p {
+    color: #333333;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.imagem-praia {
+    flex: 1;
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+}
+
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+.container-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.texto-rio {
+    flex: 1;
+    max-width: 500px;
+}
+
+.texto-rio h2 {
+    color: #134d37;
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.texto-rio p {
+    color: #333333;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.imagem-rio {
+    flex: 1;
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+.container-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.texto-cavernas {
+    flex: 1;
+    max-width: 500px;
+}
+
+.texto-cavernas h2 {
+    color: #134d37;
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.texto-cavernas p {
+    color: #333333;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.imagem-cavernas {
+    flex: 1;
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+.container-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.texto-pantanal {
+    flex: 1;
+    max-width: 500px;
+}
+
+.texto-pantanal h2 {
+    color: #134d37;
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.texto-pantanal p {
+    color: #333333;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.imagem-pantanal {
+    flex: 1;
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+.container-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.texto-festejos {
+    flex: 1;
+    max-width: 500px;
+}
+
+.texto-festejos h2 {
+    color: #134d37;
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.texto-festejos p {
+    color: #333333;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.imagem-festejos {
+    flex: 1;
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+}
+
+
+
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+.container-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.texto-queijos {
+    flex: 1;
+    max-width: 500px;
+}
+
+.texto-queijos h2 {
+    color: #134d37;
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.texto-queijos p {
+    color: #333333;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.imagem-queijos {
+    flex: 1;
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+}
+
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+.container-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.texto-pao-de-queijo {
+    flex: 1;
+    max-width: 500px;
+}
+
+.texto-pao-de-queijo h2 {
+    color: #134d37;
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.texto-pao-de-queijo p {
+    color: #333333;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.imagem-pao-de-queijo {
+    flex: 1;
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+.container-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.texto-mel {
+    flex: 1;
+    max-width: 500px;
+}
+
+.texto-mel h2 {
+    color: #134d37;
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.texto-mel p {
+    color: #333333;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.imagem-mel {
+    flex: 1;
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+}
+
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+.container-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.texto-cachaca {
+    flex: 1;
+    max-width: 500px;
+}
+
+.texto-cachaca h2 {
+    color: #134d37;
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.texto-cachaca p {
+    color: #333333;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.imagem-cachaca {
+    flex: 1;
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+}
+
+
+
+
