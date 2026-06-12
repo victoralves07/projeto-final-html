@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: #f7e8e8;
+    background-color: #fff4f4;
 }
 
 .container-flex {
@@ -43,12 +43,6 @@ body {
 }
 
 
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-color: #ffffff;
-}
 
 .container-flex {
     display: flex;
@@ -90,14 +84,6 @@ body {
 }
 
 
-
-
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-color: #ffffff;
-}
 
 .container-flex {
     display: flex;
@@ -141,12 +127,6 @@ body {
 
 
 
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-color: #ffffff;
-}
 
 .container-flex {
     display: flex;
@@ -187,12 +167,6 @@ body {
     object-fit: cover;
 }
 
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-color: #ffffff;
-}
 
 .container-flex {
     display: flex;
@@ -234,12 +208,6 @@ body {
 }
 
 
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-color: #ffffff;
-}
 
 .container-flex {
     display: flex;
@@ -281,12 +249,7 @@ body {
 }
 
 
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-color: #ffffff;
-}
+
 
 .container-flex {
     display: flex;
@@ -332,12 +295,7 @@ body {
 
 
 
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-color: #ffffff;
-}
+
 
 .container-flex {
     display: flex;
@@ -381,12 +339,7 @@ body {
 
 
 
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-color: #ffffff;
-}
+
 
 .container-flex {
     display: flex;
@@ -428,12 +381,7 @@ body {
 }
 
 
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-color: #ffffff;
-}
+
 
 .container-flex {
     display: flex;
@@ -477,12 +425,6 @@ body {
 
 
 
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-color: #ffffff;
-}
 
 .container-flex {
     display: flex;
@@ -522,7 +464,6 @@ body {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     object-fit: cover;
 }
-
 
 
 
