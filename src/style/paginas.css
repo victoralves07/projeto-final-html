@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: #f7e8e8;
+    background-color: #fff4f4;
 }
 
 .container-flex {
@@ -41,7 +41,6 @@ body {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     object-fit: cover;
 }
-
 .container-flex {
     display: flex;
     align-items: center;
@@ -118,7 +117,6 @@ body {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     object-fit: cover;
 }
-
 .container-flex {
     display: flex;
     align-items: center;
@@ -157,7 +155,6 @@ body {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     object-fit: cover;
 }
-
 .container-flex {
     display: flex;
     align-items: center;
@@ -196,7 +193,6 @@ body {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     object-fit: cover;
 }
-
 .container-flex {
     display: flex;
     align-items: center;
@@ -234,8 +230,7 @@ body {
     border-radius: 15px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     object-fit: cover;
-}
-
+} 
 .container-flex {
     display: flex;
     align-items: center;
@@ -274,8 +269,6 @@ body {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     object-fit: cover;
 }
-
-
 .container-flex {
     display: flex;
     align-items: center;
@@ -352,6 +345,7 @@ body {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     object-fit: cover;
 }
+
 .container-flex {
     display: flex;
     align-items: center;
@@ -428,6 +422,8 @@ body {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     object-fit: cover;
 }
+
+
 
 
 
