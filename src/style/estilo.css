@@ -8,7 +8,7 @@
 
 .imagem-destaque {
     width: 100%;
-    height: 80vh; 
+    height: 88vh; 
     object-fit: cover; 
     display: block;
 }
@@ -205,12 +205,14 @@ display: flex;
 }
 
 .caixa-papel {
-    background-color: #F4EFE6;
+    background-color: #8A9A86;
     padding: 40px;
-    color: #333333;
+   color: #333333;
     font-family: 'Merriweather', serif;
     font-size: 1.1rem;
     line-height: 1.6;
+    border-radius: 12px;
+   
 }
 
 .bloco-esq-tropeiros img {
@@ -232,13 +234,14 @@ display: flex;
 }
 
 .caixa-curiosidade h3 {
-    background-color: #F4EFE6;
+    background-color: #8A9A86;
     color: #333333;
     display: inline-block;
     padding: 10px 20px;
     font-family: 'Merriweather', serif;
     font-size: 1.5rem;
     margin-bottom: 20px;
+    border-radius: 12px;
 }
 
 .caixa-curiosidade p {
@@ -278,20 +281,21 @@ display: flex;
 
 .bloco-dir-brejo {
     flex: 1;
-    background-color: #F4EFE6;
+    background-color: #8A9A86;
     padding: 40px;
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 30px;
     box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+    border-radius: 12px;
 }
 
 .texto-curiosidade-brejo {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 0.95rem;
-    color: #333333;
+    color: #141414;
     line-height: 1.6;
 }
 
@@ -365,13 +369,14 @@ display: flex;
 }
 
 .tag-versao {
-    background-color: #F4EFE6;
+    background-color: #8A9A86;
     color: #333333;
     display: inline-block;
     padding: 10px 30px;
     font-family: 'Merriweather', serif;
     font-size: 1.5rem;
     margin-bottom: 25px;
+    border-radius: 12px;
 }
 
 .coluna-versao p {
@@ -399,7 +404,7 @@ display: flex;
 }
 
 .tag-conclusao {
-    background-color: #F4EFE6;
+    background-color: #8A9A86;
     color: #333333;
     display: inline-block;
     padding: 10px 25px;
@@ -407,10 +412,11 @@ display: flex;
     font-size: 1.5rem;
     margin-bottom: 30px;
     box-shadow: 2px 4px 10px rgba(0,0,0,0.2);
+    border-radius: 12px;
 }
 
 .caixa-texto-conclusao {
-    background-color: #F4EFE6;
+    background-color: #e8f4e6;
     padding: 40px;
     color: #333333;
     font-family: 'Montserrat', sans-serif;
@@ -419,6 +425,7 @@ display: flex;
     box-shadow: 5px 5px 15px rgba(0,0,0,0.2);
     width: 100%;
     max-width: 500px;
+    border-radius: 12px;
 }
 
 
@@ -428,7 +435,7 @@ display: flex;
     display: flex;
     justify-content: center;
     margin-top: 150px;
-    margin-bottom: 300px;
+    margin-bottom: 100px;
 }
 
 .container-comparativo {
@@ -506,7 +513,7 @@ margin-bottom: 80px;
 }
 
 .card {
-     width: 500px;
+     width: 650px;
      flex-shrink: 0;
     background:  #000000;
     border-radius: 20px;
@@ -527,7 +534,7 @@ margin-bottom: 80px;
 
 .card img {
     width: 100%;
-    height: 400px;
+    height: 550px;
     object-fit: cover;
 }
 
@@ -542,15 +549,11 @@ margin-bottom: 80px;
 }
 
 .conteudo-card h3 {
-    color: rgb(255, 255, 255);
+    color: #ffffff;
     font-size: 2.4rem;
-    margin-bottom: 20px;
+  
 }
 
-.conteudo-card p {
-    color: #fffefe;
-    font-size: 1.2rem;
-}
 
 .card:first-child {
     margin-left: 5%;
